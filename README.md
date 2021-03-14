@@ -7,7 +7,7 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/whlack?style=social">
 
-<a href="https://github.com/helldoodle-dev"><img src="https://img.shields.io/github/followers/whlack.svg?label=GitHub&style=social" alt="GitHub"></a>
+<a href="https://github.com/whlack"><img src="https://img.shields.io/github/followers/whlack.svg?label=GitHub&style=social" alt="GitHub"></a>
 
 
 
