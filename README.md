@@ -3,7 +3,7 @@
 
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=helldoodle-dev&color=brightgreen)
+![Visitor Count](https://komarev.com/ghpvc/?username=whlack&color=brightgreen)
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/whlack?style=social">
 
