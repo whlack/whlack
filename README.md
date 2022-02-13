@@ -31,6 +31,18 @@ Hi, my nickname is Whlack and I am a coder. Started programming in winter 2019.
 
 - MongoDB
 
+- ReactJS
+
+- NextJS
+
+- NuxtJS
+
+- Vue/Vuex
+
+- Bootstrap
+
+- JQuery
+
 
 
 ![Whlack's GitHub stats](https://github-readme-stats.vercel.app/api?username=whlack&show_icons=true&theme=radical)
