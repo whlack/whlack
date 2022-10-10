@@ -21,6 +21,8 @@ Hi, my nickname is Whlack and I am a coder. Started programming in winter 2019.
 
 # What I worked with:
 
+- [Sokkol](https://github.com/Sokk0l)
+
 - Discord.JS
 
 - Express
