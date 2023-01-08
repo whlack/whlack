@@ -16,6 +16,9 @@
 
 
 Hi, my nickname is Whlack and I am a coder. Started programming in winter 2019.
+Feel free to contact me with:
+ - Discord: whlack#4366
+ - Freiland: https://freiland.ru/profile/whlack
 
 
 
