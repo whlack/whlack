@@ -20,36 +20,4 @@ Feel free to contact me with:
  - Discord: whlack#4366
 
 
-
-# What I worked with:
-
-- [Sokkol](https://github.com/Sokk0l)
-
-- Discord.JS
-
-- Express
-
-- PostgreSQL
-
-- WebSocket / Socket.io
-
-- MongoDB
-
-- ReactJS
-
-- NextJS
-
-- NuxtJS
-
-- Vue/Vuex
-
-- Bootstrap
-
-- JQuery
-
-
-
 ![Whlack's GitHub stats](https://github-readme-stats.vercel.app/api?username=whlack&show_icons=true&theme=radical)
-
-
-
